@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoDeals.Data.Models\AutoDeals.Data.Models.csproj" />
+    <ProjectReference Include="..\AutoDeals.GCommon\AutoDeals.GCommon.csproj" />
+    <ProjectReference Include="..\AutoDeals.Services.AutoMapping\AutoDeals.Services.AutoMapping.csproj" />
+  </ItemGroup>
+
+</Project>
