@@ -1,1 +1,1 @@
-This project utilizes a template provided by my lecturer, Kristiyan Ivanov.
+This project utilizes a template provided by Kristiyan Ivanov.
